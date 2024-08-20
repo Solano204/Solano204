@@ -60,7 +60,7 @@ Hello! I’m **Carlos Josué López Solano**, a passionate **Backend Developer**
 | ----------------------------- | ------------------------------------------------------------------------------------------- |
 | **Singleton**                  | 🏰                                                                                          |
 | **Factory**                    | 🏗️                                                                                          |
-| **Observer**                   | 👁️                                                                                          |
+| **and more**                   | 👁️                                                                                          |
 
 ### **Languages**
 | 🌟 **Language**                | Proficiency                                                                                |
